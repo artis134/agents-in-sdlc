@@ -24,7 +24,7 @@ lastUpdated: 2026-10-05
 - 설치된 [Git][git]. `git --version`을 실행하여 확인합니다.
 - macOS, Windows 또는 Linux를 실행하는 컴퓨터.
 
-[GitHub CLI][gh-cli](`gh`)는 선택 사항이지만 권장합니다. 에이전트가 대신 리포지토리와 풀 리퀘스트(Pull request)를 만들 수 있게 해 주기 때문입니다.
+[GitHub CLI][gh-cli] (`gh`)는 선택 사항이지만 권장합니다. 에이전트가 대신 리포지토리와 풀 리퀘스트(Pull request)를 만들 수 있게 해 주기 때문입니다.
 
 > [!NOTE]
 > Copilot Business 또는 Copilot Enterprise를 사용하는 경우, 관리자가 **Copilot CLI** 정책을 활성화해야 에이전트 세션이 작동합니다.
